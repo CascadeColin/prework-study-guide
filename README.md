@@ -12,9 +12,7 @@ The goal of this project is to solve the problem of how to retain the informatio
 
 The creation of this project taught me the basic building blocks of HTML, CSS, JavaScript, and Git.  Additionally, I learned how to utilize GitHub, VS Code, and Git Bash as tools of my new trade.  I also hit a significant roadblock while learning Git.  This forced me to utilize "timeboxing" and tested my resolve and determination to continue learning.  Upon getting past that roadblock, I felt the utter joy of defeating the problem which reaffirmed my desire to continue down the path of web development.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
